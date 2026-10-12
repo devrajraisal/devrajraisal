@@ -1,62 +1,271 @@
-💫 Hi 👋, I'm Devraj Raisal
-A passionate Frontend Developer || React Specialist || Digital Marketing Expert || Social Impact Leader from Pakistan 🇵🇰
 
-📧 Email Me 👉 [raisal.devraj@gmail.com](mailto:raisal.devraj@gmail.com)  for Collaboration, Freelance Projects, or Tech Discussions 😊
+<!-- ═══════════════════════ ANIMATED HERO ═══════════════════════ -->
 
-🔭 I’m currently working on: React-based Web Applications & AI-powered Projects
-🌱 I’m currently learning: Advanced React Ecosystem, Cloud Computing & AI Tools
-👯 I’m looking to collaborate on: Open Source, Frontend & Social Impact Projects
-🤔 I’m looking for help with: DevOps, Cloud Infrastructure & Scalable Applications
-💬 Ask me about: React.js, Redux Toolkit, Firebase, Digital Marketing & Lead Generation
-📫 How to reach me: LinkedIn — linkedin.com/in/devraj-raisal
-😄 Pronouns: He/Him
-⚡ Fun fact: I love building scalable user-centric applications and creating social impact through technology 🚀
+<div align="center">
 
-🛠️ Tech Stack:
-React.js • Redux Toolkit • JavaScript (ES6+) • Tailwind CSS • Firebase • REST APIs • Git & GitHub • Vite • SEO • Meta Ads • Google Analytics
+<a href="https://github.com/devrajraisal">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=DEVRAJ%20RAISAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20Digital%20Creator&descAlignY=58&descSize=16&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Devraj Raisal animated GitHub banner"/>
+</a>
 
-🏆 Achievements:
-✨ Millennium Fellow — Class of 2026 (UNAI & MCN)
-✨ Best Intern of the Month — 2023
-✨ OpenHACK25 Volunteer Recognition Award
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Building+modern+web+experiences+%F0%9F%9A%80;React+%7C+Redux+Toolkit+%7C+JavaScript+%E2%9A%9B%EF%B8%8F;Digital+Marketing+%26+Lead+Generation+%F0%9F%93%88;Technology+for+meaningful+social+impact+%F0%9F%8C%8D;Always+learning.+Always+building.+%E2%9C%A8" alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://github.com/devrajraisal?tab=followers">
+  <img src="https://img.shields.io/github/followers/devrajraisal?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/devrajraisal?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+<a href="mailto:raisal.devraj@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Connect-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+</a>
+
+<br/><br/>
+
+**🇵🇰 Pakistan · 💻 Frontend Engineering · 📈 Digital Growth · 🌍 Social Impact**
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+## 👨‍💻 About Me
+
+```javascript
+const devraj = {
+  name: "Devraj Raisal",
+  location: "Pakistan 🇵🇰",
+  roles: [
+    "Frontend Developer",
+    "React Specialist",
+    "Digital Marketing Expert",
+    "Social Impact Leader"
+  ],
+  coreStack: [
+    "React",
+    "JavaScript",
+    "Redux Toolkit",
+    "Tailwind CSS",
+    "Firebase"
+  ],
+  interests: [
+    "Building user-focused applications",
+    "Exploring AI-powered tools",
+    "Open-source collaboration",
+    "Technology for social good"
+  ],
+  currentlyLearning: [
+    "Advanced React Ecosystem",
+    "Cloud Computing",
+    "AI Tools"
+  ],
+  openTo: [
+    "Frontend opportunities",
+    "Open-source projects",
+    "Freelance collaborations",
+    "Social impact initiatives"
+  ]
+};
+```
+
+I'm passionate about building accessible, responsive, and engaging digital experiences. I enjoy combining frontend development with creative problem-solving, digital marketing, and initiatives that create meaningful social impact.
+
+- 🔭 **Building:** React applications and exploring AI-powered projects.
+- 🌱 **Learning:** Advanced React patterns, cloud technologies, and AI tools.
+- 🤝 **Collaborating:** Open-source, frontend, and community-focused projects.
+- 🧠 **Exploring:** DevOps, cloud infrastructure, and scalable applications.
+- 💬 **Discuss with me:** React.js, Redux Toolkit, Firebase, SEO, Meta Ads, and lead generation.
+- ⚡ **My mindset:** Learn continuously, build thoughtfully, and make technology useful.
+
+---
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,vite,threejs&theme=dark" alt="Frontend technology icons"/>
+
+### ⚙️ Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,sqlite&theme=dark" alt="Backend and database technology icons"/>
+
+### 🧰 Tools & Creative Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify&theme=dark" alt="Development tools icons"/>
+
+</div>
+
+### 📣 Digital Marketing
+
+`SEO` · `Meta Ads` · `Google Analytics` · `Lead Generation` · `Campaign Optimization`
+
+<details>
+<summary><b>🧪 Additional technologies and areas of interest</b></summary>
+
+- **Programming & Web:** C, C++, Java, HTML, CSS, JavaScript, Markdown, LaTeX
+- **Frameworks & UI:** Angular, AngularJS, React Native, Semantic UI React
+- **Cloud & Deployment:** AWS, Microsoft Azure, Google Cloud, Netlify, Vercel
+- **Databases:** MongoDB, MySQL, SQLite, Microsoft SQL Server, Apache Cassandra
+- **Design & Data:** Canva, Adobe tools, Figma, NumPy, Pandas, Matplotlib
+- **Other:** Apache, .NET, Oracle, Cisco, Notion, Testing Library
+
+*This list includes technologies from my broader toolkit and interests; it does not imply professional proficiency in every item.*
+
+</details>
+
+---
+
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [JobTrail](https://github.com/devrajraisal/job-application-tracker) | Full stack job application tracker with login, private data per user, search, and stats | React, Express, SQLite, JWT |
-| [ShopEase](https://github.com/devrajraisal/react-ecommerce-platform) | Demo storefront with catalog, product pages, cart, and wishlist | React, Redux Toolkit, React Router |
-| [TaskFlow](https://github.com/devrajraisal/kanban-task-manager) | Kanban board with drag and drop, priorities, deadlines, and saved state | React, Context, useReducer |
-| [WeatherNow](https://github.com/devrajraisal/weather-dashboard-react) | Weather dashboard with 5 day forecast, hourly view, and weather themes | React, Vite, OpenWeatherMap API |
-| [Portfolio](https://github.com/devrajraisal/devraj-portfolio) | Animated single page portfolio | HTML, CSS, GSAP, Three.js |
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devrajraisal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DevrajRaisal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raisal.devraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devraj-raisal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DevrajRaisal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raisal.devraj@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<a href="https://github.com/devrajraisal/job-application-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devrajraisal&repo=job-application-tracker&theme=tokyonight&hide_border=true" alt="JobTrail project card"/>
+</a>
+<a href="https://github.com/devrajraisal/react-ecommerce-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devrajraisal&repo=react-ecommerce-platform&theme=tokyonight&hide_border=true" alt="ShopEase project card"/>
+</a>
+<a href="https://github.com/devrajraisal/kanban-task-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devrajraisal&repo=kanban-task-manager&theme=tokyonight&hide_border=true" alt="TaskFlow project card"/>
+</a>
+<a href="https://github.com/devrajraisal/weather-dashboard-react">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devrajraisal&repo=weather-dashboard-react&theme=tokyonight&hide_border=true" alt="WeatherNow project card"/>
+</a>
+
 </div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=devrajraisal&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=devrajraisal&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devrajraisal&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+| Project | Highlights | Technology |
+|---|---|---|
+| [🎯 JobTrail](https://github.com/devrajraisal/job-application-tracker) | Authentication, private user data, search, application tracking, statistics | React, Express, SQLite, JWT |
+| [🛍️ ShopEase](https://github.com/devrajraisal/react-ecommerce-platform) | Product catalog, product pages, shopping cart, wishlist | React, Redux Toolkit, React Router |
+| [📋 TaskFlow](https://github.com/devrajraisal/kanban-task-manager) | Drag-and-drop tasks, priorities, deadlines, saved state | React, Context API, useReducer |
+| [🌦️ WeatherNow](https://github.com/devrajraisal/weather-dashboard-react) | Five-day forecast, hourly weather, dynamic themes | React, Vite, OpenWeatherMap API |
+| [✨ Portfolio](https://github.com/devrajraisal/devraj-portfolio) | Animated single-page portfolio and interactive visual effects | HTML, CSS, GSAP, Three.js |
 
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/devrajraisal?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devrajraisal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=devrajraisal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/2026-Millennium%20Fellow-7C3AED?style=for-the-badge&logo=unitednations&logoColor=white" alt="Millennium Fellow 2026"/>
+<img src="https://img.shields.io/badge/2023-Best%20Intern-CA8A04?style=for-the-badge&logo=star&logoColor=white" alt="Best Intern 2023"/>
+<img src="https://img.shields.io/badge/OpenHACK25-Volunteer%20Recognition-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="OpenHACK25 Volunteer Recognition"/>
+
+</div>
+
+- 🌍 **Millennium Fellowship — Class of 2026:** United Nations Academic Impact (UNAI) and Millennium Campus Network (MCN).
+- ⭐ **Best Intern of the Month — 2023.**
+- 🤝 **OpenHACK25 Volunteer Recognition Award.**
+
+---
+
+<!-- ═══════════════════════ GITHUB ANALYTICS ═══════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=devrajraisal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=devrajraisal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajraisal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devrajraisal&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+## 🏅 GitHub Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devrajraisal&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ SNAKE CONTRIBUTION ANIMATION ═══════════════════════ -->
+
+## 🐍 My Contributions in Motion
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devrajraisal/devrajraisal/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%"/>
+
+</div>
+
+> **Setup note:** The snake animation requires a GitHub Actions workflow in your profile repository. Follow the setup instructions below to generate the SVG automatically.
+
+---
+
+<!-- ═══════════════════════ SOCIALS ═══════════════════════ -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/devraj-raisal">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://facebook.com/DevrajRaisal">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://instagram.com/raisal.devraj">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://x.com/DevrajRaisal">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:raisal.devraj@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=devrajraisal&style=for-the-badge&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build with purpose. Learn without limits. Make an impact.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" alt="Animated blue footer"/>
+
+</div>
