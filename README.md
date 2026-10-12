@@ -1,7 +1,7 @@
 💫 Hi 👋, I'm Devraj Raisal
 A passionate Frontend Developer || React Specialist || Digital Marketing Expert || Social Impact Leader from Pakistan 🇵🇰
 
-📧 Email Me 👉 [raisal.devrajgmail.com](mailto:raisal.devraj@gmail.com)  for Collaboration, Freelance Projects, or Tech Discussions 😊
+📧 Email Me 👉 [raisal.devraj@gmail.com](mailto:raisal.devraj@gmail.com)  for Collaboration, Freelance Projects, or Tech Discussions 😊
 
 🔭 I’m currently working on: React-based Web Applications & AI-powered Projects
 🌱 I’m currently learning: Advanced React Ecosystem, Cloud Computing & AI Tools
@@ -19,6 +19,16 @@ React.js • Redux Toolkit • JavaScript (ES6+) • Tailwind CSS • Firebase �
 ✨ Millennium Fellow — Class of 2026 (UNAI & MCN)
 ✨ Best Intern of the Month — 2023
 ✨ OpenHACK25 Volunteer Recognition Award
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [JobTrail](https://github.com/devrajraisal/job-application-tracker) | Full stack job application tracker with login, private data per user, search, and stats | React, Express, SQLite, JWT |
+| [ShopEase](https://github.com/devrajraisal/react-ecommerce-platform) | Demo storefront with catalog, product pages, cart, and wishlist | React, Redux Toolkit, React Router |
+| [TaskFlow](https://github.com/devrajraisal/kanban-task-manager) | Kanban board with drag and drop, priorities, deadlines, and saved state | React, Context, useReducer |
+| [WeatherNow](https://github.com/devrajraisal/weather-dashboard-react) | Weather dashboard with 5 day forecast, hourly view, and weather themes | React, Vite, OpenWeatherMap API |
+| [Portfolio](https://github.com/devrajraisal/devraj-portfolio) | Animated single page portfolio | HTML, CSS, GSAP, Three.js |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devrajraisal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
