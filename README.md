@@ -241,9 +241,6 @@ I'm passionate about building accessible, responsive, and engaging digital exper
 <a href="https://linkedin.com/in/devraj-raisal">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://facebook.com/DevrajRaisal">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
 <a href="https://instagram.com/raisal.devraj">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
