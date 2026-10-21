@@ -147,10 +147,13 @@ I'm passionate about building accessible, responsive, and engaging digital exper
 | Project | Highlights | Technology |
 |---|---|---|
 | [🎯 JobTrail](https://github.com/devrajraisal/job-application-tracker) | Authentication, private user data, search, application tracking, statistics | React, Express, SQLite, JWT |
-| [🛍️ ShopEase](https://github.com/devrajraisal/react-ecommerce-platform) | Product catalog, product pages, shopping cart, wishlist | React, Redux Toolkit, React Router |
-| [📋 TaskFlow](https://github.com/devrajraisal/kanban-task-manager) | Drag-and-drop tasks, priorities, deadlines, saved state | React, Context API, useReducer |
-| [🌦️ WeatherNow](https://github.com/devrajraisal/weather-dashboard-react) | Five-day forecast, hourly weather, dynamic themes | React, Vite, OpenWeatherMap API |
-| [✨ Portfolio](https://github.com/devrajraisal/devraj-portfolio) | Animated single-page portfolio and interactive visual effects | HTML, CSS, GSAP, Three.js |
+| [🛍️ ShopEase](https://github.com/devrajraisal/react-ecommerce-platform) | Product catalog, product pages, shopping cart, wishlist<br>[Live demo](https://devrajraisal.github.io/react-ecommerce-platform/) | React, Redux Toolkit, React Router |
+| [📋 TaskFlow](https://github.com/devrajraisal/kanban-task-manager) | Drag-and-drop tasks, priorities, deadlines, saved state<br>[Live demo](https://devrajraisal.github.io/kanban-task-manager/) | React, Context API, useReducer |
+| [🌦️ WeatherNow](https://github.com/devrajraisal/weather-dashboard-react) | Five-day forecast, hourly weather, dynamic themes<br>[Live demo](https://devrajraisal.github.io/weather-dashboard-react/) | React, Vite, OpenWeatherMap API |
+| [✨ Portfolio](https://github.com/devrajraisal/devraj-portfolio) | Animated single-page portfolio and interactive visual effects<br>[Live site](https://devrajraisal.dev) | HTML, CSS, GSAP, Three.js |
+| [📈 AdLens](https://github.com/devrajraisal/adlens) | Private, in-browser dashboard that turns an ad campaign CSV into KPIs, insights, and charts | React, TypeScript, Vite |
+| [🧮 AdMath](https://github.com/devrajraisal/admath) | Ad scenario calculator: CTR, CPC, CPM, CPA, ROAS, ROI<br>[Live demo](https://devrajraisal.github.io/admath/) | React, TypeScript, Vite |
+| [📊 Campaign Analyzer](https://github.com/devrajraisal/campaign-analyzer) | Command line tool that turns ad CSV exports into KPIs, insights, and an HTML report | Python, pandas, matplotlib |
 
 <div align="center">
 
