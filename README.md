@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/devrajraisal">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=DEVRAJ%20RAISAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20Digital%20Creator&descAlignY=58&descSize=16&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Devraj Raisal animated GitHub banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=DEVRAJ%20RAISAL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist%20%7C%20Digital%20Marketing%20Expert&descAlignY=58&descSize=16&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Devraj Raisal animated GitHub banner"/>
 </a>
 
 <br/>
@@ -39,6 +39,7 @@
 const devraj = {
   name: "Devraj Raisal",
   location: "Pakistan 🇵🇰",
+  education: "Software Engineering student @ MUET 🎓",
   roles: [
     "Frontend Developer",
     "React Specialist",
@@ -74,6 +75,7 @@ const devraj = {
 
 I'm passionate about building accessible, responsive, and engaging digital experiences. I enjoy combining frontend development with creative problem-solving, digital marketing, and initiatives that create meaningful social impact.
 
+- 🎓 **Studying:** Software Engineering at Mehran University of Engineering & Technology (MUET).
 - 🔭 **Building:** React applications and exploring AI-powered projects.
 - 🌱 **Learning:** Advanced React patterns, cloud technologies, and AI tools.
 - 🤝 **Collaborating:** Open-source, frontend, and community-focused projects.
@@ -231,7 +233,6 @@ I'm passionate about building accessible, responsive, and engaging digital exper
 
 </div>
 
-> **Setup note:** The snake animation requires a GitHub Actions workflow in your profile repository. Follow the setup instructions below to generate the SVG automatically.
 
 ---
 
@@ -241,7 +242,7 @@ I'm passionate about building accessible, responsive, and engaging digital exper
 
 <div align="center">
 
-<a href="https://linkedin.com/in/devraj-raisal">
+<a href="https://www.linkedin.com/in/devraj-raisal-208b53288">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/raisal.devraj">
