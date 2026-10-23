@@ -22,6 +22,9 @@
 <a href="mailto:raisal.devraj@gmail.com">
   <img src="https://img.shields.io/badge/Let's%20Connect-Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
 </a>
+<a href="https://www.linkedin.com/in/devraj-raisal-208b53288">
+  <img src="https://img.shields.io/badge/Open%20to-Frontend%20Roles%20%26%20Freelance-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to frontend roles and freelance work"/>
+</a>
 
 <br/><br/>
 
@@ -39,7 +42,7 @@
 const devraj = {
   name: "Devraj Raisal",
   location: "Pakistan 🇵🇰",
-  education: "Software Engineering student @ MUET 🎓",
+  education: "B.E. Software Engineering @ MUET 🎓",
   roles: [
     "Frontend Developer",
     "React Specialist",
@@ -75,13 +78,23 @@ const devraj = {
 
 I'm passionate about building accessible, responsive, and engaging digital experiences. I enjoy combining frontend development with creative problem-solving, digital marketing, and initiatives that create meaningful social impact.
 
-- 🎓 **Studying:** Software Engineering at Mehran University of Engineering & Technology (MUET).
+- 🎓 **Studying:** B.E. Software Engineering at Mehran University of Engineering & Technology (MUET) SZAB Campus, Khairpur — 2023–2027.
 - 🔭 **Building:** React applications and exploring AI-powered projects.
 - 🌱 **Learning:** Advanced React patterns, cloud technologies, and AI tools.
 - 🤝 **Collaborating:** Open-source, frontend, and community-focused projects.
 - 🧠 **Exploring:** DevOps, cloud infrastructure, and scalable applications.
 - 💬 **Discuss with me:** React.js, Redux Toolkit, Firebase, SEO, Meta Ads, and lead generation.
 - ⚡ **My mindset:** Learn continuously, build thoughtfully, and make technology useful.
+
+---
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+
+## 💼 Experience
+
+- **Frontend Developer Intern** — Contributed frontend development and responsive UI improvements for a global youth-led platform backed by UNDP & WHO, collaborating with international remote teams.
+- **Freelance Digital Marketer** — Grew a local clothing brand's Instagram from 300 to 2,000+ followers in 3 months; ran Meta Ads campaigns achieving a 150% improvement in post reach.
+- **Sales Consultant** — Pitched web development, digital marketing, and software solutions to B2B clients, managing end-to-end sales cycles and consistently exceeding monthly revenue targets.
 
 ---
 
@@ -179,9 +192,22 @@ I'm passionate about building accessible, responsive, and engaging digital exper
 
 </div>
 
-- 🌍 **Millennium Fellowship — Class of 2026:** United Nations Academic Impact (UNAI) and Millennium Campus Network (MCN).
+- 🌍 **Millennium Fellowship — Class of 2026:** Selected by United Nations Academic Impact (UNAI) and Millennium Campus Network (MCN); leading a digital literacy initiative (UN SDG 4) for 100+ underserved students.
 - ⭐ **Best Intern of the Month — 2023.**
 - 🤝 **OpenHACK25 Volunteer Recognition Award.**
+
+---
+
+<!-- ═══════════════════════ CERTIFICATIONS ═══════════════════════ -->
+
+## 📜 Certifications
+
+- **Complete React Developer** — Udemy · 2024
+- **Web Development Essentials** — Udemy · 2024
+- **Web Internship Certificate** — CodSoft · 2024
+- **Digital Marketing Fundamentals** — Google Garage · 2025
+- **SEO Basics** — HubSpot Academy · 2025
+- **Social Media Marketing** — Coursera · 2025
 
 ---
 
