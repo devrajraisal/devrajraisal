@@ -162,6 +162,7 @@ I'm passionate about building accessible, responsive, and engaging digital exper
 | Project | Highlights | Technology |
 |---|---|---|
 | [🎯 JobTrail](https://github.com/devrajraisal/job-application-tracker) | Authentication, private user data, search, application tracking, statistics | React, Express, SQLite, JWT |
+| [📣 CampaignHQ](https://github.com/devrajraisal/campaignhq) | Full-stack campaign platform: team workspaces, CSV metric import, KPI and insights engines | React, Express, SQLite, JWT |
 | [🛍️ ShopEase](https://github.com/devrajraisal/react-ecommerce-platform) | Product catalog, product pages, shopping cart, wishlist<br>[Live demo](https://devrajraisal.github.io/react-ecommerce-platform/) | React, Redux Toolkit, React Router |
 | [📋 TaskFlow](https://github.com/devrajraisal/kanban-task-manager) | Drag-and-drop tasks, priorities, deadlines, saved state<br>[Live demo](https://devrajraisal.github.io/kanban-task-manager/) | React, Context API, useReducer |
 | [🌦️ WeatherNow](https://github.com/devrajraisal/weather-dashboard-react) | Five-day forecast, hourly weather, dynamic themes<br>[Live demo](https://devrajraisal.github.io/weather-dashboard-react/) | React, Vite, OpenWeatherMap API |
